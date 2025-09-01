@@ -33,5 +33,7 @@ Problem Statement 2: Charts Requirement
 
 # DASHBOARD
 <img width="961" height="536" alt="image" src="https://github.com/user-attachments/assets/4effe5e4-64ef-4e32-a6d7-153d421caa8d" />
+<img width="1533" height="857" alt="image" src="https://github.com/user-attachments/assets/21f8b173-5ab9-4daf-b0eb-6a9b2e06b63a" />
+
 
 
