@@ -31,5 +31,7 @@ Problem Statement 2: Charts Requirement
 # Company-Wise Sales Trend in Grid Form: Provide a tabular grid that displays the sales trend for each company. The grid should showcase the company name along with their YTD sales figures.
 # Details Grid Showing All Car Sales Information: Create a detailed grid that presents all relevant information for each car sale, including car model, body style, colour, sales amount, dealer region, date, etc
 
+# DASHBOARD
+<img width="961" height="536" alt="image" src="https://github.com/user-attachments/assets/4effe5e4-64ef-4e32-a6d7-153d421caa8d" />
 
 
